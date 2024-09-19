@@ -4,7 +4,7 @@ este software foi desenvolvido inicialmente para aprendizado e depois decidi tra
 
 # Como usar
 
-baixe o arquivo .zip depois descompacte o arquivo .zip e rode o main.py 
+baixe o arquivo .zip depois descompacte o arquivo .zip e rode o main.pyw
  
 basta apenas executalo em algum programa de edicao e criacao de codigo Como o Visual Studio Code,Replit,Python entre outros
 
